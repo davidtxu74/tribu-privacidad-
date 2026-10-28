@@ -1,8 +1,8 @@
-# Política de privacidad de Tribu
+# Política de privacidad de Leinua
 
-*Última actualización: 27 de octubre de 2026*
+*Última actualización: 28 de octubre de 2026*
 
-Tribu es una app para apuntar el día a día de un bebé (tomas, sueño, pañales, baños, medidas, salud y recordatorios de medicación) y compartirlo con la familia. La desarrolla davidtxu74 ("nosotros"). Contacto: [u2864772186@id.gle](mailto:u2864772186@id.gle).
+Leinua (antes llamada Tribu) es una app para apuntar el día a día de un bebé (tomas, sueño, pañales, baños, medidas, salud y recordatorios de medicación) y compartirlo con la familia. La desarrolla davidtxu74 ("nosotros"). Contacto: [u2864772186@id.gle](mailto:u2864772186@id.gle).
 
 ## Resumen
 
@@ -19,7 +19,7 @@ Tribu es una app para apuntar el día a día de un bebé (tomas, sueño, pañale
 
 ### Google Drive (opcional)
 
-Si creas o te unes a una familia, Tribu usa el permiso `drive.file` de Google: **solo puede ver los archivos que crea ella o los que tú eliges** en el selector de Google, nunca el resto de tu Drive. Cada miembro guarda una copia de los datos de la familia en un archivo de su Drive, compartido solo con las personas invitadas. Esos archivos se rigen además por la [política de privacidad de Google](https://policies.google.com/privacy).
+Si creas o te unes a una familia, Leinua usa el permiso `drive.file` de Google: **solo puede ver los archivos que crea ella o los que tú eliges** en el selector de Google, nunca el resto de tu Drive. Cada miembro guarda una copia de los datos de la familia en un archivo de su Drive, compartido solo con las personas invitadas. Esos archivos se rigen además por la [política de privacidad de Google](https://policies.google.com/privacy).
 
 Si activas la **contraseña de la familia**, esos archivos se guardan cifrados (AES-256-GCM): sin la contraseña no se pueden leer, tampoco desde Drive. La contraseña no sale de los móviles de la familia.
 
@@ -32,21 +32,21 @@ La app del reloj intercambia con tu móvil, a través de los servicios de Google
 - **Internet**: sincronizar con Google Drive.
 - **Notificaciones**: avisar de los recordatorios de medicación y, si lo activas, mostrar la siesta en curso con el botón *Se ha despertado*.
 - **Iniciar al encender el móvil**: volver a programar esos recordatorios tras reiniciar.
-- **Huella, cara o PIN** (si activas el bloqueo): lo comprueba Android; Tribu no recibe tu huella ni tu PIN.
+- **Huella, cara o PIN** (si activas el bloqueo): lo comprueba Android; Leinua no recibe tu huella ni tu PIN.
 
 El **widget** de la pantalla de inicio guarda en el móvil a qué bebé apunta cada widget y muestra solo si está dormido y la cantidad del último biberón. No envía nada fuera del móvil.
 
 ## Cuánto tiempo se guardan y cómo borrarlos
 
-Los datos se guardan mientras los tengas en la app o en tu Drive. Puedes borrar cualquier registro desde la app, salir de la familia (*Ajustes → Familia y sincronización → Salir de la familia*), borrar los archivos de la carpeta *Tribu* de tu Google Drive y desinstalar la app para eliminar la copia del móvil. Puedes quitar el acceso de Tribu a tu cuenta en <https://myaccount.google.com/permissions>.
+Los datos se guardan mientras los tengas en la app o en tu Drive. Puedes borrar cualquier registro desde la app, salir de la familia (*Ajustes → Familia y sincronización → Salir de la familia*), borrar los archivos de la carpeta *Leinua* de tu Google Drive y desinstalar la app para eliminar la copia del móvil. Puedes quitar el acceso de Leinua a tu cuenta en <https://myaccount.google.com/permissions>.
 
 ## Menores
 
-Tribu está pensada para personas adultas que cuidan de un bebé. No está dirigida a menores ni recoge datos de ellos más allá de lo que la persona adulta apunta sobre su bebé.
+Leinua está pensada para personas adultas que cuidan de un bebé. No está dirigida a menores ni recoge datos de ellos más allá de lo que la persona adulta apunta sobre su bebé.
 
 ## Salud
 
-Tribu no es un dispositivo médico ni sustituye el consejo de un profesional sanitario. Los percentiles (OMS) y el calendario vacunal son orientativos.
+Leinua no es un dispositivo médico ni sustituye el consejo de un profesional sanitario. Los percentiles (OMS) y el calendario vacunal son orientativos.
 
 ## Cambios
 
