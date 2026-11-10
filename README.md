@@ -1,19 +1,19 @@
 # Política de privacidad de Leinua
 
-*Última actualización: 28 de octubre de 2026*
+*Última actualización: 10 de noviembre de 2026*
 
 Leinua (antes llamada Tribu) es una app para apuntar el día a día de un bebé (tomas, sueño, pañales, baños, medidas, salud y recordatorios de medicación) y compartirlo con la familia. La desarrolla davidtxu74 ("nosotros"). Contacto: [u2864772186@id.gle](mailto:u2864772186@id.gle).
 
 ## Resumen
 
-- **No tenemos servidores.** Lo que apuntas se guarda en tu móvil y, si activas la familia, en tu propio Google Drive y en el de las personas que invites. Nosotros no recibimos ni podemos ver nada.
+- **No tenemos servidores.** Lo que apuntas se guarda en tu móvil y, si activas la familia, en tu propio Google Drive y en el de las personas que invites. Si tu móvil hace copia de seguridad de Android, también entra en esa copia, en tu cuenta de Google. Nosotros no recibimos ni podemos ver nada.
 - **No hay anuncios, ni analítica, ni seguimiento**, y no vendemos ni cedemos datos a nadie.
 
 ## Qué datos maneja la app y dónde se guardan
 
 | Dato | Para qué | Dónde |
 |---|---|---|
-| Datos del bebé (nombre, fecha de nacimiento, sexo) y registros (tomas, sueño, pañales, baños, peso, talla, perímetro, temperatura, medicación, vacunas, citas, recordatorios) | Funcionamiento de la app | En el móvil. Con la familia activada, también en Google Drive |
+| Datos del bebé (nombre, fecha de nacimiento, sexo, tipo de alimentación) y registros (tomas, sueño, pañales, baños, peso, talla, perímetro, temperatura, medicación, vacunas, citas, recordatorios) | Funcionamiento de la app | En el móvil. Con la familia activada, también en Google Drive |
 | Tu nombre y tu rol en la familia | Que los demás sepan quién apuntó cada cosa | En el móvil y en los archivos de la familia |
 | Tu cuenta de Google (correo) | Compartir los archivos de la familia en Google Drive | En el móvil y en la lista de miembros de la familia |
 
@@ -23,9 +23,17 @@ Si creas o te unes a una familia, Leinua usa el permiso `drive.file` de Google: 
 
 Si activas la **contraseña de la familia**, esos archivos se guardan cifrados (AES-256-GCM): sin la contraseña no se pueden leer, tampoco desde Drive. La contraseña no sale de los móviles de la familia.
 
+### Copia de seguridad de Android
+
+Si tienes activada la copia de seguridad de Android en tu móvil, el sistema incluye los datos de Leinua en la copia que guarda en tu cuenta de Google, igual que hace con otras apps, y los restaura al cambiar de móvil. Esa copia la gestiona Android con tu cuenta: nosotros no tenemos acceso a ella. Puedes desactivarla en los ajustes de copia de seguridad del sistema.
+
+### Informe para el pediatra
+
+El informe en PDF se crea en tu móvil con lo que tienes apuntado. Solo sale de él si lo compartes tú, a la app y a la persona que elijas en el menú de compartir de Android.
+
 ### Reloj (Wear OS)
 
-La app del reloj intercambia con tu móvil, a través de los servicios de Google Play, solo lo necesario para apuntar tomas, pañales y sueño. No envía nada a terceros.
+La app del reloj intercambia con tu móvil, a través de los servicios de Google Play, solo lo necesario para apuntar tomas, pañales y sueño y para mostrar la última toma en su tarjeta y en la esfera. No envía nada a terceros.
 
 ## Permisos
 
